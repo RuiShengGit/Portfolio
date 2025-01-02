@@ -6,6 +6,10 @@ import web from "./web.png";
 import github from "./github.png";
 import menu from "./menu.svg";
 import close from "./close.svg";
+import home from "./home.svg";
+import work from "./work.svg";
+import about from "./about.svg";
+import contact from "./contact.svg";
 
 import css from "./tech/css.png";
 import docker from "./tech/docker.png";
@@ -29,6 +33,12 @@ import tesla from "./company/tesla.png";
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
+
+import file from "./file.png";
+import githubIcon from "./github.svg";
+import linkedinIcon from "./linkedin.svg";
+import profile from "./profile.jpg";
+import resume from "./resume.pdf";
 
 export {
   logo,
@@ -59,4 +69,13 @@ export {
   carrent,
   jobit,
   tripguide,
+  home,
+  work,
+  about,
+  contact,
+  file,
+  githubIcon,
+  linkedinIcon,
+  profile,
+  resume
 };

@@ -23,24 +23,32 @@ import {
   jobit,
   tripguide,
   threejs,
+  about,
+  contact,
+  work,
+  home
 } from "../assets";
 
 export const navLinks = [
   {
     id: "home",
     title: "Home",
+    icon: home
   },
   {
     id: "about",
     title: "About",
+    icon: about
   },
   {
     id: "work",
     title: "Work",
+    icon: work
   },
   {
     id: "contact",
     title: "Contact",
+    icon: contact
   },
 ];
 
