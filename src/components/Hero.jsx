@@ -63,7 +63,7 @@ const Hero = () => {
 
   return (
     <section className='banner id="home" relative w-full h-screen mx-auto'>
-      <div className="container mx-auto px-4 absolute inset-10 top-[200px] max-w-[1800px]">
+      <div className="container mx-auto px-4 max-w-[1800px] md:pt-[200px]">
         <div className="flex flex-col md:flex-row items-center justify-between">
           {/* Left Column */}
           <div className="w-full md:w-1/2 xl:w-7/12 text-center md:text-left min-h-[600px] pt-14 mt-14 ">

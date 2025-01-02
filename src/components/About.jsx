@@ -10,7 +10,7 @@ import { SectionWrapper } from "../hoc";
 
 const About = () => {
   return (
-    <div className="flex flex-col md:flex-row items-center justify-center gap-12 w-full">
+    <div className="flex flex-col md:flex-row items-center justify-center gap-12 w-full mt-10">
       {/* Profile Picture */}
       <motion.div
         variants={fadeIn("", "", 0.1, 1)}
